@@ -1,5 +1,3 @@
-![Java & Android App Developer](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/262671414_5226364284046199_4009855432918800715_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHUA8cxQARFI4gyh-HJBKAVU1ZwWwmiqj9TVnBbCaKqPxWEwhK9AqDQb0NGpt8H1jz8ncSD1LHogTAPo_eloKtR&_nc_ohc=K2KFpYAcOBwAX95h5EI&_nc_ht=scontent.fdac80-1.fna&oh=00_AT_gPL-RfupqGoFsm3LVfvoAuEVsGO44f2FDS3Pp72MC1w&oe=61E2864E)
-
 ### Hi there 👋, my name is Mahfuz
 #### Java & Android App Developer
 
